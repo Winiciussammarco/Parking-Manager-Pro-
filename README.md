@@ -29,6 +29,10 @@ pip install shiny pandas plotly shinywidgets
 
 # Run the application
 python app.py
+##
+
+
+
 
 # Made by:
  - André Bellin;
