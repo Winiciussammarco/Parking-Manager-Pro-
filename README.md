@@ -22,10 +22,16 @@ A modern parking management system with real-time analytics and beautiful UI.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/parking-manager-pro.git
+git clone https://github.com/Winiciussammarco/Parking-Manager-Pro-.git
 
 # Install dependencies
 pip install shiny pandas plotly shinywidgets
 
 # Run the application
 python app.py
+
+## Made by:
+ - André Bellin;
+ - Lucas Melo;
+ - Winicius São Marco
+
